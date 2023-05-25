@@ -6,7 +6,7 @@ public class TestCafeUtil {
         ArrayList<Double> priceItems = new ArrayList<Double>();
         ArrayList<String> menuItems = new ArrayList<String>();
         ArrayList<String> customerList= new ArrayList<String>();
-            
+        // this is added 
         priceItems.add(0,2.3);
         priceItems.add(1, 1.7);
         priceItems.add(2, 1.5);
